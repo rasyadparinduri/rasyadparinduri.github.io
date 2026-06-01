@@ -26,14 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Rasyad Parinduri"
   pronouns         : # example: "she/her"  
-  bio              : "Development Economics | Labor Economics"
+  bio              : "Development economics, labor economics, private sector development"
   # location         : "Earth"
   employer         : "University of Nottingham Malaysia"
-  uri              : # URL
+  uri              : "https://www.nottingham.edu.my"
   email            : "rasyad.parinduri@nottingham.edu.my" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.nottingham.edu.my/Social-Sciences/People/rasyad.parinduri"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=wj-zIq4AAAAJ&hl=en"
   inspire-hep      : # URL
