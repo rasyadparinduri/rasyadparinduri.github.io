@@ -29,7 +29,7 @@ author:
   bio              : "Development economics, labor economics, private sector development"
   # location         : "Earth"
   employer         : "University of Nottingham Malaysia"
-  uri              : "https://www.nottingham.edu.my"
+  uri              : # URL
   email            : "rasyad.parinduri@nottingham.edu.my" 
 
   # Academic websites
