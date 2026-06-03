@@ -49,22 +49,3 @@
 
 
 
-/* Force consistent content width across all pages */
-.page,
-.page__content,
-.archive,
-.page__inner-wrap {
-  max-width: 75% !important;
-}
-
-/* Mobile: full width */
-@media (max-width: 768px) {
-  .page,
-  .page__content,
-  .archive,
-  .page__inner-wrap {
-    max-width: 100%;
-  }
-}
-
-
