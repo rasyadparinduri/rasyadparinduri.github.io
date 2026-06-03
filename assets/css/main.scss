@@ -47,3 +47,30 @@
 }
 
 
+
+
+
+/* Make archive pages match homepage width */
+.archive .page__inner-wrap,
+.archive .page__content {
+  max-width: 100%;
+}
+
+/* Align archive pages to homepage container width */
+.archive {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure sidebar layouts remain intact */
+.page {
+  display: flex;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .archive {
+    max-width: 100%;
+  }
+}
