@@ -47,29 +47,3 @@
 }
 
 
-
-#main,
-.initial-content,
-.archive__wrapper,
-.archive {
-  max-width:1100px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* ensure text doesn't stretch full width inside archive pages */
-.archive__item {
-  max-width: 50% !important;
-}
-
-/* keep mobile full width */
-@media (max-width: 768px) {
-  #main,
-  .initial-content,
-  .archive__wrapper,
-  .archive {
-    max-width: 100% !important;
-  }
-}
-
-
