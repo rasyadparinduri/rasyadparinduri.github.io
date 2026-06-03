@@ -48,33 +48,13 @@
 
 
 
-
-
-/* FIX ARCHIVE WIDTH (correct container-based fix) */
-#main {
-  max-width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
+.archive {
+  font-size: 15px;
 }
 
-/* control ONLY content column */
-#main .archive {
-  flex: 1;
-  max-width: 75%;
+.archive p {
+  max-width: 75ch;
+  line-height: 1.6;
 }
 
-/* ensure sidebar stays stable */
-#main .sidebar {
-  flex: 0 0 250px;
-}
 
-/* mobile: full width */
-@media (max-width: 768px) {
-  #main {
-    max-width: 100%;
-  }
-
-  #main .archive {
-    max-width: 100%;
-  }
-}
