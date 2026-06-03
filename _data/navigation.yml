@@ -9,19 +9,19 @@
 
 main:
   - title: "Working papers"
-    url: /workingpapers/
+    url: /working/
 
   - title: "Journal articles"
-    url: /talks/    
+    url: /journal/    
 
   - title: "Books"
-    url: /teaching/    
+    url: /book/    
     
   - title: "Conperence papers"
-    url: /portfolio/
+    url: /conference/
         
-  - title: "Opinion pieces"
-    url: /year-archive/
+#  - title: "Opinion pieces"
+ #   url: /year-archive/
     
 #  - title: "CV"
 #    url: /cv/
