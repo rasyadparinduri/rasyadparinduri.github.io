@@ -9,16 +9,16 @@
 
 main:
   - title: "Working papers"
-    url: /working/
+    url: /working-papers/
 
   - title: "Journal articles"
-    url: /journal/    
+    url: /journal-articles/    
 
   - title: "Books"
-    url: /book/    
+    url: /books/    
     
   - title: "Conperence papers"
-    url: /conference/
+    url: /conference-papers/
         
 #  - title: "Opinion pieces"
  #   url: /year-archive/
