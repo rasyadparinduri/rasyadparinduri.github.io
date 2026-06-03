@@ -48,29 +48,28 @@
 
 
 
-
-
-/* Make archive pages match homepage width */
-.archive .page__inner-wrap,
-.archive .page__content {
-  max-width: 100%;
-}
-
-/* Align archive pages to homepage container width */
+#main,
+.initial-content,
+.archive__wrapper,
 .archive {
-  max-width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* Ensure sidebar layouts remain intact */
-.page {
-  display: flex;
+/* ensure text doesn't stretch full width inside archive pages */
+.archive__item {
+  max-width: 100% !important;
 }
 
-/* Mobile */
+/* keep mobile full width */
 @media (max-width: 768px) {
+  #main,
+  .initial-content,
+  .archive__wrapper,
   .archive {
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
+
+
