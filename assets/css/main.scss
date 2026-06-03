@@ -45,3 +45,14 @@
 .page__footer {
   display: none !important;
 }
+
+
+.page__content {
+  max-width: 75%;
+}
+
+@media (max-width: 768px) {
+  .page__content {
+    max-width: 100%;
+  }
+}
