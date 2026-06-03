@@ -47,23 +47,3 @@
 }
 
 
-
-.page__inner-wrap {
-  max-width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* ensure all page types inherit same width */
-.page__content,
-.archive,
-.page {
-  width: 100%;
-}
-
-/* mobile */
-@media (max-width: 768px) {
-  .page__inner-wrap {
-    max-width: 100%;
-  }
-}
