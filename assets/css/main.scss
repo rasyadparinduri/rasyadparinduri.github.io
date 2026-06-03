@@ -54,9 +54,7 @@
 .page__content,
 .archive,
 .page__inner-wrap {
-  max-width: 75%;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 75% !important;
 }
 
 /* Mobile: full width */
