@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "My econ papers"
+title                    : "Rasyad Parinduri"
 title_separator          : "-"
 name                     : &name "Rasyad Parinduri"
 description              : &description "Rasyad Parinduri's economics papers"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "rasyadparinduri/rasyadparinduri.github.io"
 author:
   # Biographic information
   avatar           : "rap2.png"
-  name             : "Rasyad Parinduri"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Development economics, labor economics, private sector development"
   # location         : "Earth"
