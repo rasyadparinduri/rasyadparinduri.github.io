@@ -65,3 +65,10 @@
   width: 200px !important;
   height: auto !important;
 }
+
+@media (max-width: 768px) {
+  .author__avatar img {
+    width: 120px !important;
+    height: auto !important;
+  }
+}
